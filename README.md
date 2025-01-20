@@ -26,3 +26,4 @@ A simple command-line application to manage tasks using Python. This project is 
    ```bash
    git clone https://github.com/your-username/todo-list-python.git
    cd todo-list-python
+   python3 todo_list.py
